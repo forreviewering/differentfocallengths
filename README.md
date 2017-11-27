@@ -1,4 +1,4 @@
-# Different Focal Length Object detection
+#  Object detection using Different Focal Length images
 
 The links contains the following 
 1. the dataset aquired using different focal length cameras. Nearly 900 images divided into 5 sets.(https://drive.google.com/open?id=1DvQD3nFROfQ5MGkZH-IOtDSXJ73tHl7h)
