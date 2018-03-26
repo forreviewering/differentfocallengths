@@ -11,7 +11,7 @@
 using namespace cv;
 using namespace std;
 
-// parameters for set 5
+// parameters
 double radius = 2.78;
 int x_value = 184;
 int y_value = 195;
