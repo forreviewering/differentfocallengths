@@ -1,1 +1,0 @@
-the upsampled images on which object detection techniques were tested.(https://drive.google.com/open?id=1yhzKQdq1nciXEIBB7HTQHx6YlZRUPXyu)
